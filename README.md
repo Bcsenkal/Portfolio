@@ -10,7 +10,8 @@ https://play.google.com/store/apps/details?id=com.RocinanteGames.MoneyColorSort&
 A visually engaging puzzle game focused on sorting and organizing currency by color and denomination. The game promotes logical thinking and accuracy, offering a blend of fun and cognitive challenge. 
 
 Park Mania Jam 
-https://play.google.com/store/apps/details?id=com.RocinanteGames.ParkManiaJam&hl=en A challenging jam game that combines parking tangle with soda can delivering. 
+https://play.google.com/store/apps/details?id=com.RocinanteGames.ParkManiaJam&hl=en 
+A challenging jam game that combines parking tangle with soda can delivering. 
 
 Juice Jam 
 https://play.google.com/store/apps/details?id=com.RocinanteGames.JuiceSortJam&hl=en 
