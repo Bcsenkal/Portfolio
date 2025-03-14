@@ -43,3 +43,9 @@ https://play.google.com/store/apps/details?id=com.RocinanteGames.MonsterHunter&h
 
 An action-packed game where players take on the role of a monster hunter defending humanity. With a focus on combat strategy and weapon customization, players battle against challenging creatures to ensure survival.
 
+### Candy Clash - Sort & Merge
+
+https://play.google.com/store/apps/details?id=com.RocinanteGames.CandyClash
+
+A level and goal based suika game, like Fruit Clash from SayGames.
+
