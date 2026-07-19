@@ -1,6 +1,22 @@
 # Portfolio
 Highlights of my professional experience in Game Development industry
 
+## Featured Engineering Tool
+
+### XLevelTool — Reusable Unity Level-Production Framework
+
+XLevelTool is a project-independent Unity editor extension I designed for producing and maintaining data-driven game levels. It grew from production needs across multiple puzzle projects and packages the authoring workflow into a reusable tool rather than project-specific editor code.
+
+- Grid, organic, and spline placement workflows with multi-canvas level editing
+- Hierarchical property schemas with generated IDs, enums, runtime data classes, and adapters
+- Universal ScriptableObject save-and-bake pipeline with reusable level containers
+- Multi-level composition, batch maintenance, tutorial authoring, and selectable 3D Scene previews
+- Live validation plus offline player simulation and exhaustive solvability proof search
+
+The current implementation is maintained as a Unity package and keeps game-specific simulation rules outside its generic authoring, validation, and simulation kernels.
+
+## Shipped Games
+
 ### SWAT Tactical Shooter 
 
 https://play.google.com/store/apps/details?id=com.RocinanteGames.SwatTacticalShooter&hl=en 
